@@ -21,7 +21,7 @@ After years of project management experience, I'm seeking to refocus back on sof
 **Paninaro Digital**  
 *CTO and Project Management* | November 2012 – December 2020
 - Analyzed, coordinated, executed, and developed own product Beetangle.com in a team of five
-- Led external development of e-shop for Elit a.s.
+- Led external development of e-shop for Elit CZ spol. s r.o.
 
 **OCTOPUS Newsroom**  
 *Co-owner, Sales and Projects Executive, Partner Manager* | August 1998 – August 2012  
@@ -36,7 +36,7 @@ After years of project management experience, I'm seeking to refocus back on sof
 
 **TV Nova Czech**  
 *Newsroom System Administrator* | May 1996 – June 1999  
-- Administered newsroom systems amd other broadcast systems and equipment.
+- Administered newsroom systems and other broadcast systems and equipment.
 - Provided technical support and maintenance
 
 *Newsroom Studio Operator* | March 1994 – May 1996  
